@@ -5,8 +5,8 @@ For installing and viewing this project in python openGL you must install numpy 
 How project Runs and how to play game properly --> [Link coming soon]
 
 Keywords Hints:
-q - Rotate Left
-e - Rotate Right
-a - Moving Leftward
-d - Moving Rightward
+q - Rotate Left, 
+e - Rotate Right, 
+a - Moving Leftward, 
+d - Moving Rightward, 
 Space - To Shoot
