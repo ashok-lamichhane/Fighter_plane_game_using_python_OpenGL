@@ -3,3 +3,10 @@ I made this project using OpenGL in Python for the Computer Graphics Course. Thi
 For installing and viewing this project in python openGL you must install numpy and other basic openGL requirements.
 
 How project Runs and how to play game properly --> [Link coming soon]
+
+Keywords Hints:
+q - Rotate Left
+e - Rotate Right
+a - Moving Leftward
+d - Moving Rightward
+Space - To Shoot
